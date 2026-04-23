@@ -2,6 +2,7 @@
   "name": "as",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://anjalsri.github.io/SARVAM-AI/",
   "type": "module",
   "scripts": {
     "dev": "vite",
