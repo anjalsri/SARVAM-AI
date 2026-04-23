@@ -2,7 +2,18 @@
 
 ![Sarvam AI Banner](https://images.unsplash.com/photo-1639322537228-f710d846310a?auto=format&fit=crop&q=80&w=1200)
 
+<div align="center">
+
+### [🌐 View Live Platform](https://anjalsri.github.io/SARVAM-AI/)
+
 **Sarvam AI** is a high-performance, futuristic SaaS platform designed for the next generation of decentralized intelligence. Built with a focus on glassmorphism aesthetics and premium user experiences, it provides a comprehensive interface for managing autonomous agent swarms, neural mesh networks, and quantum-safe protocols.
+
+[![Deploy to GitHub Pages](https://github.com/anjalsri/SARVAM-AI/actions/workflows/deploy.yml/badge.svg)](https://anjalsri.github.io/SARVAM-AI/)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 
 ---
 
@@ -140,24 +151,20 @@ Our design language is rooted in **"Neural Glassmorphism"**—a blend of transpa
 
 ---
 
-## 📜 Documentation & API
+## 🗺 Project Roadmap
 
-For a full breakdown of the API endpoints, visit the Swagger UI at:
-`http://localhost:8000/docs`
-
-For detailed component documentation, refer to [DOCUMENTATION.md](./DOCUMENTATION.md).
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the neural architect community. Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+- [x] **Epoch 1**: Initial Neural Core & Glassmorphism UI
+- [x] **Epoch 2**: Decentralized Node Analytics Integration
+- [x] **Epoch 3**: GitHub Pages Deployment & Automated Pipelines
+- [ ] **Epoch 4**: Real-time Autonomous Agent Swarm Visualizer
+- [ ] **Epoch 5**: Quantum-Safe Identity Protocol Implementation
 
 ---
 
-## 🛡 License
+## 👥 Neural Architects
 
-This project is licensed under the Sarvam Proprietary License. See the [LICENSE.md](./LICENSE.md) file for details.
+- **[Anjalsri](https://github.com/anjalsri)** - Lead Neural Architect
+- **[Sarvam Protocol Team](https://github.com/anjalsri/SARVAM-AI/graphs/contributors)** - Core Mesh Contributors
 
 ---
 *Developed by the Sarvam AI Protocol Team*
